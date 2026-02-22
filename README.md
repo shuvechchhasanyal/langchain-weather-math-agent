@@ -1,4 +1,4 @@
-# 🌤️ LangChain Weather & Math Agent
+# 🌤️ 🧮LangChain Weather & Math Agent
 
 A robust, local AI assistant powered by LangChain and Groq (Llama 3.3). This agent implements a ReAct (Reason + Act) loop to intelligently handle user queries about weather and mathematics using live tools.
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 Create a .env file in the root directory:
 
 ```bash
-GROQ_API_KEY=your_groq_api_key_here
+GROQ_API_KEY= "your_groq_api_key_here"
 ```
 
 ## 💻 Usage
