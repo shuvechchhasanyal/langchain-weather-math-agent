@@ -1,4 +1,4 @@
-# 🌤️ 🧮LangChain Weather & Math Agent
+# 🌤️ 🧮 LangChain Weather & Math Agent
 
 A robust, local AI assistant powered by LangChain and Groq (Llama 3.3). This agent implements a ReAct (Reason + Act) loop to intelligently handle user queries about weather and mathematics using live tools.
 
